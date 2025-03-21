@@ -454,7 +454,7 @@ footer p a{
         display: none;
     }
     main{
-        width: 90vw;
+        width: 80vw;
     }
     .linha-tempo-moveis{
         display: block;
@@ -466,21 +466,21 @@ footer p a{
 
     /* PRINCIPAL */
     .principal{
-        width: 90vw;
+        width: 80vw;
     }
     .img-principal{
         display: none;
     }
     h1{
         font-size: 40px;
-        max-width: 350px;
+        max-width: 75vw;
     }
     .principal h2{
         font-size: 14px;
     }
     .principal p{
         font-size: 12px;
-        max-width: 370px;
+        max-width: 75vw;
     }
     .icones-principal{
         display: none;
@@ -501,8 +501,15 @@ footer p a{
     }
 
     /* SOBRE */
+    .sobre{
+        align-items: center;
+    }
     .bloco-sobre{
         flex-direction: column;
+        max-width: 80vw;
+    }
+    .bloco-sobre .texto-sobre{
+        max-width: 80vw;
     }
     .sobre .titulo-secao{
         text-align: center;
@@ -539,6 +546,14 @@ footer p a{
         display: flex;
         justify-content: center;
     }
+    .carousel-control-prev-icon {
+        width: 10px;
+        margin-right: 40px;
+    }
+    .carousel-control-next-icon {
+        width: 10px;
+        margin-left: 40px;
+    }
 
     /* CARD */
     .card{
@@ -559,11 +574,16 @@ footer p a{
         margin-top: 50px;
         gap: 20px;
     }
+    .contato .grupo-contatos .quadrante-contatos{
+        max-width: 80vw;
+        gap: 10px;
+    }
     .zap{
         width: 100%;
     }
     .contato{
         width: 90vw;
+        margin-bottom: 60px;
     }
 
     /* FOOTER */
