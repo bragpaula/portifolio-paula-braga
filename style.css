@@ -230,6 +230,9 @@ h1 span{
     font-size: 10px;
     font-weight: 600;
 }
+.carousel-group img{
+    border-radius: 5px;
+}
 .carousel-inner{
     width: 1000px;
 }
