@@ -24,7 +24,9 @@ main{
 }
 
 /* HEADER */
-
+.lua{
+    display: none;
+}
 header{
     height: 80px;
     width: 1000px;
