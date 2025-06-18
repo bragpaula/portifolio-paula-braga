@@ -566,6 +566,7 @@ footer p a{
     }
     .card-container{
         width: 80%;
+        padding: 10px 0;
     }
     .card-container p{
         font-size: 14px;
