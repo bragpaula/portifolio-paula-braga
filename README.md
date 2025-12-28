@@ -7,9 +7,9 @@ Sou apaixonada por design e desenvolvimento web. Atualmente, estudo programaçã
 
 ## 🛠️ Tecnologias
 - HTML, CSS, JavaScript
-- React (em progresso... 👀)
+- Vue.js (em progresso... 👀)
 - Flask & SQLAlchemy (para os momentos backend)
-- Figma (onde as ideias nascem)
+- Figma 
 
 ## 🔗 Acesse
 👉 [Meu Portfólio](https://bragpaula.github.io/portifolio-paula-braga/ )
